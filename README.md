@@ -5,3 +5,5 @@ a simple version of a memory game using JavaScript, HTML, and CSS.
 ## Tools 
     - Visual Studio Code 
     - Google Chrome 
+
+it's just started...
