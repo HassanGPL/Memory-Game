@@ -1,6 +1,6 @@
-# Memore Game
+# Memory Game
 
-simple version of memory game using JavaScript , HTML and CSS.
+a simple version of a memory game using JavaScript, HTML, and CSS.
 
 ## Tools 
     - Visual Studio Code 
